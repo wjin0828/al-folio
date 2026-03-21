@@ -1,4 +1,4 @@
-  ---
+---
   layout: about
   title: about
   permalink: /
@@ -20,7 +20,7 @@
   My research focuses on the **Economics of Digitization, IT Productivity,
   Management and Organization**. I study how digital technologies affect firm
   performance, organizational structure, labor markets, and economic growth. My
-  work has been published in leading journals including *Management Science*,
+  work has been published in leading leaders including *Management Science*,
   *MIS Quarterly*, and *Harvard Business Review*.
 
   My research has been recognized with the 2020 Edward A. Mennis Award and the
